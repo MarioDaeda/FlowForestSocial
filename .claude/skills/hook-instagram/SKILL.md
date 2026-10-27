@@ -1,13 +1,13 @@
 ---
 name: hook-instagram
-description: Scrive, valuta e registra gli hook (primi 1-3 secondi) dei prossimi Reel Instagram applicando la guida in knowledge/instagram-hooks/guida.md. Usala quando si prepara un nuovo video, uno script o una caption per Instagram, quando si chiede "fammi l'hook", "come apro questo video", o quando si inseriscono i risultati di un Reel pubblicato.
+description: Scrive, valuta e registra gli hook (primi 1-3 secondi) dei prossimi Reel Instagram di FlowForest, la pagina sul bosco, applicando la guida in knowledge/instagram-hooks/guida.md. Usala quando si prepara un nuovo video, uno script o una caption per Instagram, quando si chiede "fammi l'hook", "come apro questo video", o quando si inseriscono i risultati di un Reel pubblicato.
 ---
 
-# Hook Instagram per i prossimi video
+# Hook Instagram per i prossimi video di FlowForest
 
 ## Prima di tutto
 
-1. Leggi `knowledge/instagram-hooks/guida.md`, solo le sezioni `Sintesi`, `Tipi di hook e formule`, `Cosa evitare`, `Rubrica`.
+1. Leggi `knowledge/instagram-hooks/guida.md`, solo le sezioni `Sintesi`, `Tipi di hook e formule`, `Hook per filone` (solo il filone del video), `Cosa evitare`, `Rubrica`.
    Se il file non esiste, fermati e di' di lanciare prima `prompts/ricerca-hook-instagram.md`.
 2. Se la data in `Prossima revisione` è passata, segnalalo in una riga (non bloccare il lavoro).
 3. Leggi `knowledge/instagram-hooks/registro-hook.csv`. Se ha almeno 5 righe con metriche,
@@ -15,7 +15,7 @@ description: Scrive, valuta e registra gli hook (primi 1-3 secondi) dei prossimi
 
 ## Modalità A: nuovo video
 
-Input: argomento o script del video (e, se c'è, il momento più forte del video).
+Input: argomento o script del video, filone FlowForest e, se c'è, la ripresa più forte (animale, cambio di luce, rivelazione).
 
 1. Individua la **promessa** del video in una frase: cosa ottiene chi guarda fino alla fine.
 2. Scrivi **5 hook di tipi diversi** (dalla tabella della guida). Per ognuno indica:
@@ -23,7 +23,8 @@ Input: argomento o script del video (e, se c'è, il momento più forte del video
    - testo a schermo (max ~7 parole, diverso dalla battuta ma coerente)
    - primo frame / azione visiva
 3. Valuta ognuno con la `Rubrica` della guida (tabella compatta, punteggio totale).
-   Scarta quelli che promettono più di quanto il video mantiene.
+   Scarta quelli che promettono più di quanto il video mantiene o che rompono l'atmosfera del bosco.
+   Su funghi e piante: mai suggerire che siano commestibili o raccoglibili sulla base del video.
 4. Consiglia **i 2 migliori** come test A/B (es. uno sul Reel principale, uno come Trial Reel, se la guida lo conferma).
 5. Aggiungi le righe dei 2 hook scelti al registro con `stato=pianificato` e metriche vuote.
 

@@ -1,8 +1,10 @@
 # FlowForestSocial
 
+Contenuti social di FlowForest, la pagina Instagram sul bosco.
+
 ## Hook Instagram: workflow
 
-1. **Ricerca (ogni 3-6 mesi):** compila "Contesto canale" in `prompts/ricerca-hook-instagram.md`
+1. **Ricerca (ogni 3-6 mesi):** conferma la sezione "FlowForest" in `prompts/ricerca-hook-instagram.md`
    e lancialo in una sessione Claude Code. Produce `knowledge/instagram-hooks/guida.md`
    (guida breve con fonti) e gli estratti in `knowledge/instagram-hooks/fonti/`.
 2. **Ogni nuovo video:** chiedi a Claude l'hook (o usa `/hook-instagram`) con argomento o script.
