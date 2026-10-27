@@ -15,16 +15,18 @@ description: Scrive, valuta e registra gli hook (primi 1-3 secondi) dei prossimi
 
 ## Modalità A: nuovo video
 
-Input: argomento o script del video, filone FlowForest e, se c'è, la ripresa più forte (animale, cambio di luce, rivelazione).
+Input: argomento o script del video, filone FlowForest e, se c'è, la ripresa più forte (paesaggio, cambio di luce, persona in attività, rivelazione).
 
 1. Individua la **promessa** del video in una frase: cosa ottiene chi guarda fino alla fine.
 2. Scrivi **5 hook di tipi diversi** (dalla tabella della guida). Per ognuno indica:
-   - battuta parlata (max ~12 parole, si dice in meno di 3 secondi)
-   - testo a schermo (max ~7 parole, diverso dalla battuta ma coerente)
-   - primo frame / azione visiva
+   - primo frame / azione visiva (cosa si vede nel primo secondo, movimento o rivelazione)
+   - testo a schermo (max ~7 parole, leggibile senza audio)
+   - musica: tipo e come attacca sul primo frame (solo audio utilizzabili dall'account; se il Reel diventerà un'inserzione, solo musica con licenza commerciale)
+   - prima riga della caption
+   FlowForest non usa voce: niente hook parlati. Reel di 15-30 secondi, con finale che richiama l'inizio per il loop.
 3. Valuta ognuno con la `Rubrica` della guida (tabella compatta, punteggio totale).
    Scarta quelli che promettono più di quanto il video mantiene o che rompono l'atmosfera del bosco.
-   Su funghi e piante: mai suggerire che siano commestibili o raccoglibili sulla base del video.
+   Mai mostrare come normali attività vietate o pericolose, disturbo degli animali o raccolta di funghi e piante.
 4. Consiglia **i 2 migliori** come test A/B (es. uno sul Reel principale, uno come Trial Reel, se la guida lo conferma).
 5. Aggiungi le righe dei 2 hook scelti al registro con `stato=pianificato` e metriche vuote.
 

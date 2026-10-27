@@ -18,15 +18,15 @@ Data di oggi: usala per calcolare la finestra di recency. "Recente" = ultimi 12 
 
 ## FlowForest (conferma o correggi prima di lanciare)
 
-- Pagina: FlowForest, profilo Instagram `@<handle>`, contenuti sul bosco, in italiano.
-- Filoni di contenuto (tieni quelli veri, aggiungi i mancanti):
-  vita nel bosco e stagioni · alberi e piante · fauna (tracce, avvistamenti) · funghi e raccolta ·
-  lavori nel bosco (legna, sentieri, cura) · suoni e momenti di relax · curiosità scientifiche e miti da sfatare.
-- Formato tipico: `<voce fuori campo su riprese / talking head nel bosco / solo musica e testo>`
-- Durata media dei Reel: `<...>` secondi
-- Obiettivo principale: `<crescita follower / condivisioni / community locale / altro>`
+- Pagina: FlowForest, profilo Instagram `@<handle>`, dedicata a un bosco reale, pubblico italiano.
+- Formato: **nessuna voce, nessun parlato.** Musica + scene di paesaggio del bosco + persone che fanno attività nel bosco.
+  Gli unici strumenti di hook sono quindi: **primo frame/immagine, movimento e montaggio, testo a schermo, scelta e attacco della musica, prima riga della caption, copertina**.
+- Filoni: paesaggi e stagioni (luce, nebbia, colori, meteo) · persone e attività nel bosco · dettagli e natura ravvicinata (fauna, piante, acqua).
+- Durata Reel: **15-30 secondi.**
+- Obiettivo di oggi: **engagement per far conoscere il bosco** (condivisioni, salvataggi, commenti, follow, visite).
+- Obiettivo futuro: usare Instagram come **mezzo pubblicitario** (Reel promossi/inserzioni). La guida deve indicare cosa cambia per gli hook nei Reel usati come ads.
 
-Il tono del bosco tende al lento e contemplativo; l'hook deve fermare lo scroll **senza tradire quell'atmosfera**.
+Il tono del bosco è lento e contemplativo; l'hook deve fermare lo scroll **senza voce e senza tradire quell'atmosfera**.
 È il nodo centrale da risolvere nella guida.
 
 ## Gerarchia delle fonti (rispettala)
@@ -48,19 +48,23 @@ Partono da conoscenze precedenti e possono essere superate. Per ognuna: conferma
 2. Negli Insights dei Reel esiste una metrica di **skip rate** (quota di chi scorre via nei primi ~3 secondi).
 3. I **Trial Reels** permettono di testare un Reel su non follower prima di mostrarlo ai follower.
 4. Instagram privilegia contenuti originali e penalizza repost, aggregatori e watermark di altre app (rilevante per riprese naturalistiche spesso ripubblicate).
-5. Nei contenuti natura i primi secondi funzionano meglio con **movimento o rivelazione visiva** (animale, cambio di luce, prima/dopo) che con una persona che parla. Verificalo sugli esempi C.
+5. Nei contenuti natura senza voce i primi secondi funzionano meglio con **movimento o rivelazione visiva** (animale, cambio di luce, prima/dopo, persona che entra in scena) che con un'inquadratura statica. Verificalo sugli esempi C.
+6. Gli account aziendali hanno una libreria musicale limitata (es. Meta Sound Collection) e i Reel promossi richiedono musica con licenza commerciale; gli audio di tendenza possono non essere utilizzabili. Verifica le regole attuali.
+7. I Reel sotto i 30 secondi beneficiano di loop e rewatch (il finale che si ricollega all'inizio aumenta il tempo di visione).
 
 ## Domande di ricerca
 
 1. Cosa dice Instagram **oggi** sui primi secondi e sulla retention (fonte A)?
-2. Quali tipi di hook mostrano dati migliori (verbale, testo a schermo, visivo/primo frame, audio)? Con quali numeri?
-3. Come aprono i Reel i creator natura/bosco che crescono adesso? Raccogli **10-15 hook reali** con tipo, primo frame e testo a schermo.
-4. Come si concilia l'atmosfera rilassante (suoni del bosco, ritmo lento) con lo stop dello scroll? Suono naturale o voce nel primo secondo?
-5. Quali hook funzionano per ciascun filone FlowForest? Pensa in particolare a curiosità, stagionalità ("cosa succede nel bosco a novembre"), miti da sfatare e momenti di "rivelazione".
-6. Quali formule sono saturate o penalizzate (clickbait, promessa non mantenuta) e quali sono **rischiose nel bosco**?
-   Per esempio: indicare funghi o piante come commestibili da un video, disturbare animali, ignorare le regole regionali sulla raccolta.
-7. Come girare il primo frame nel bosco: luce bassa, inquadratura verticale e safe zone, vento sul microfono, testo leggibile su sfondi verdi e complessi.
-8. Come misurare e testare un hook con gli strumenti nativi (nomi esatti delle metriche e dove si trovano)?
+2. Senza voce, quali hook mostrano dati migliori: visivo/primo frame, testo a schermo, attacco musicale, combinazioni? Con quali numeri?
+3. Come aprono i Reel **senza parlato** i creator e i luoghi natura/outdoor che crescono adesso (paesaggi, cinematic nature, rifugi, parchi, agriturismi, esperienze nel bosco)? Raccogli **10-15 hook reali** con primo frame, testo a schermo, musica e durata.
+4. Come si concilia l'atmosfera rilassante con lo stop dello scroll? Ritmo dei tagli nei primi 3 secondi, attacco della musica sul primo frame, suono ambiente vs musica.
+5. Quali testi a schermo funzionano per un luogo da far conoscere (es. "Questo bosco è a 40 minuti da <città>", "POV: ...", domanda, stagionalità "il bosco a novembre")? Lunghezza, posizione, durata a schermo.
+6. Come costruire un Reel di 15-30 secondi che si guarda fino alla fine e in loop, e che spinge a **condividere** ("mandalo a chi ci verrebbe con te"), salvare e venire a visitare?
+7. Prima riga della caption, copertina e posizione taggata: quanto contano per scoperta e engagement di un luogo?
+8. Hook per Reel usati come **inserzioni**: cosa cambia (primi secondi, testo, call to action, musica con licenza, regole Meta Ads)?
+9. Quali formule sono saturate o penalizzate (clickbait, promessa non mantenuta) e cosa è **rischioso nel bosco** (disturbare animali, mostrare attività pericolose o non consentite, suggerire raccolta di funghi o piante)?
+10. Come girare il primo frame nel bosco: luce bassa, inquadratura verticale e safe zone, stabilizzazione, testo leggibile su sfondi verdi e complessi.
+11. Come misurare e testare un hook con gli strumenti nativi (nomi esatti delle metriche e dove si trovano)?
 
 ## Metodo (ottimizzato per i token)
 
@@ -72,8 +76,9 @@ Partono da conoscenze precedenti e possono essere superate. Per ognuna: conferma
    Query di partenza (adattale, aggiungi l'anno corrente):
    - A: `Adam Mosseri Reels ranking signals <anno>` · `Instagram "skip rate" Reels insights` · `Instagram Trial Reels how it works`
    - B: `Instagram Reels first 3 seconds retention study <anno>` · `Instagram Reels benchmark report <anno>`
-   - C: `nature Instagram Reels hook examples` · `forest creator Instagram reels` · `foraging reels hook` ·
-     `nature ASMR reels retention` · `divulgazione bosco Instagram` · `reel natura hook <anno>`
+   - B: `Instagram business account music licensing Reels` · `Meta Reels ads best practices first seconds`
+   - C: `cinematic nature Reels no talking hook` · `faceless nature reels` · `travel destination Reels hook examples` ·
+     `outdoor experience Instagram reels` · `reel bosco <anno>` · `promuovere un luogo con i Reel`
 3. **Leggi con estrazione mirata.** Quando apri una pagina, estrai solo i passaggi su hook, retention, primi secondi, metriche e riprese in natura; non riassumere tutta la pagina.
    Limite: **massimo 14 fonti lette** in tutto, almeno 3 di livello A e almeno 4 di livello C della nicchia.
 4. **"Scarica" in forma leggera.** Per ogni fonte usata salva `knowledge/instagram-hooks/fonti/NN-slug.md` con:
@@ -85,20 +90,23 @@ Partono da conoscenze precedenti e possono essere superate. Per ognuna: conferma
 
 ## Formato output: `knowledge/instagram-hooks/guida.md`
 
-Massimo ~1800 parole. In testa: `Aggiornata al: <data>` e `Prossima revisione: <data + 4 mesi>`. Sezioni con questi titoli esatti:
+Massimo ~2000 parole. In testa: `Aggiornata al: <data>` e `Prossima revisione: <data + 4 mesi>`. Sezioni con questi titoli esatti:
 
 1. `## Sintesi` — 8-10 regole operative per FlowForest, una riga ciascuna.
 2. `## Come Instagram valuta i primi secondi` — solo fonti A, con `[n]`.
 3. `## Tipi di hook e formule` — tabella: tipo · quando usarlo · formula template in italiano · esempio FlowForest · evidenza `[n]`.
-   Copri almeno: verbale, testo a schermo, visivo/primo frame (rivelazione, movimento, prima/dopo), audio (suono del bosco vs voce) e le combinazioni.
-4. `## Hook per filone` — per ogni filone FlowForest: 2 formule pronte e il tipo di primo frame consigliato.
-5. `## Girare il primo frame nel bosco` — checklist tecnica breve (luce, inquadratura, audio, testo leggibile).
-6. `## Cosa evitare` — errori, formule saturate o penalizzate e rischi specifici del bosco, con motivo.
-7. `## Rubrica` — tabella di 5-7 criteri, punteggio 0-2 ciascuno, con cosa vale 0/1/2.
-   Tra i criteri includi la coerenza con l'atmosfera FlowForest e la promessa mantenuta. Sarà usata per dare un voto a ogni hook.
-8. `## Test e misurazione` — quali metriche guardare (nome esatto negli Insights), dopo quanto tempo, soglie indicative se esistono dati, come usare i Trial Reels per l'A/B.
-9. `## Incertezze e contraddizioni`
-10. `## Fonti` — tabella: n · titolo · editore/autore · data · livello · URL.
+   Solo hook **senza voce**: primo frame/visivo (rivelazione, movimento, prima/dopo, persona che entra in scena), testo a schermo, attacco musicale e le combinazioni.
+4. `## Hook per filone` — per ogni filone FlowForest: 2 formule pronte (primo frame + testo a schermo + tipo di musica).
+5. `## Struttura 15-30 secondi` — scaletta tipo secondo per secondo (hook, sviluppo, payoff, loop) e dove mettere la call to action.
+6. `## Girare il primo frame nel bosco` — checklist tecnica breve (luce, inquadratura, stabilizzazione, testo leggibile, copertina).
+7. `## Musica` — come sceglierla e farla attaccare sul primo frame, cosa si può usare con un account aziendale e nelle inserzioni.
+8. `## Dai Reel organici alle inserzioni` — cosa cambia per gli hook quando un Reel diventa pubblicità.
+9. `## Cosa evitare` — errori, formule saturate o penalizzate e rischi specifici del bosco, con motivo.
+10. `## Rubrica` — tabella di 5-7 criteri, punteggio 0-2 ciascuno, con cosa vale 0/1/2.
+    Tra i criteri includi: comprensibile senza audio, coerenza con l'atmosfera FlowForest, promessa mantenuta, voglia di condividere/visitare. Sarà usata per dare un voto a ogni hook.
+11. `## Test e misurazione` — quali metriche guardare (nome esatto negli Insights), dopo quanto tempo, soglie indicative se esistono dati, come usare i Trial Reels per l'A/B.
+12. `## Incertezze e contraddizioni`
+13. `## Fonti` — tabella: n · titolo · editore/autore · data · livello · URL.
 
 ## Integrazione e chiusura
 
