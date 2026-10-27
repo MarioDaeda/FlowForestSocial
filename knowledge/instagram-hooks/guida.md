@@ -125,7 +125,7 @@ Punteggio 0-2 per criterio; totale su 14. Scarta sotto 9.
 - **Sends = 3-5x like**: da blog terzi, non da Instagram: non verificato [1].
 - **Soglie di skip rate**: solo blog [9].
 - **Trial Reels**: soglie di follower (200/1000) e visibilità in una scheda "Trials" sul profilo: non verificate, fonti discordanti [4].
-- **Hook per la natura**: nessuna fonte di nicchia trovata; tutti gli esempi vanno trattati come ipotesi.
+- **Hook per la natura**: seconda ricerca (27 ott.) su creator e luoghi natura/bosco: nessun esempio di hook, nessun dato su Reel senza voce [13][14][15]. Aneddoti soltanto: un divulgatore forestale italiano lamenta che Instagram non premia i contenuti lunghi [13]; un Reel di natura in Lapponia ha fatto ~32M views, senza dati sull'hook [14]. Tutti gli esempi della guida restano ipotesi. Prossimo passo utile: tu indichi 5-10 account o Reel di riferimento e io ne analizzo gli hook dalle tue note o screenshot.
 - **Originalità/watermark**: fonti del 2021-2022.
 - **Regole Meta Ads sugli hook** e **musica per inserzioni**: da riverificare nell'Help Center.
 - Il registro non ha ancora video con metriche: nessun dato del canale.
@@ -146,3 +146,6 @@ Punteggio 0-2 per criterio; totale su 14. Scarta sotto 9.
 | 10 | Original content ranking | Social Media Today | 2022 | A (relay, datata) | https://www.socialmediatoday.com/news/instagrams-updating-its-ranking-algorithm-to-put-more-focus-on-original-co/622424 |
 | 11 | Instagram Reels for business in 2026 | Hootsuite | 2026 | B | https://blog.hootsuite.com/instagram-reels/ |
 | 12 | Visual Hook Formats for Instagram Reels | Blitzcut | 2026 | C (generica) | https://blitzcutai.com/blog/visual-hooks-instagram-reels |
+| 13 | From Roots to Leaves (da Instagram al bosco) | il Dolomiti (sponsorizzato) | 2026-05-17 | C | https://www.ildolomiti.it/altra-montagna/cultura/2026/se-considerassimo-gli-alberi-esseri-umani-come-potremmo-accettare-di-tagliarli-qualora-rischiassero-di-cadere-mettendo-a-rischio-delle-vite-da-instagram-al-bosco-con-from-roots-to-leaves |
+| 14 | Reel natura Lapponia | Yle | n.d. | C (aneddoto) | https://yle.fi/a/3-12167814 |
+| 15 | Comunicazione su Instagram, 5 parchi norvegesi | NMBU (tesi) | 2023 | B (non letta) | https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3080529 |
