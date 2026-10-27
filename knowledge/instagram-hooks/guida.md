@@ -42,6 +42,13 @@ Solo hook senza voce. Gli esempi sono idee per FlowForest da testare; l'evidenza
 | Attacco musicale | Qualsiasi filone | Suono ambiente o nota che parte sul primo frame, poi sale | Stormire di foglie → archi leggeri al taglio | [11] generica |
 | Combinazione | Reel principale | Primo frame in movimento + testo ≤7 parole + audio che attacca subito | Nebbia che si apre + "Il bosco a novembre" + pad ambientale | [7] (Meta: più elementi insieme) |
 
+**Caratteristiche generali del hook (pratica cross-piattaforma, livello C, nessun dato di piattaforma)** [16][17]:
+- Tre ingredienti in meno di 3 s: stimolo visivo immediato (movimento), curiosità aperta (un "dove/cosa/come finisce?"), promessa di payoff vicino.
+- Senza voce, il testo a schermo porta la promessa: già nel primo frame o entro ~1 s, 2-3 s di permanenza, breve e contrastato.
+- Pattern interrupt visivi adatti al bosco: salto da campo largo a macro, taglio netto tra due ambienti, stesso luogo in due stagioni o con luce diversa (prima/dopo).
+- Mostrare il risultato prima (la scena più bella al secondo 0, poi "come ci si arriva") è un formato ricorrente.
+- Audio: progetta per funzionare muto **e** con audio; la quota di visione muta è citata tra 75% e 92% ma con dati vecchi e contrastanti [18]. Tutte le soglie numeriche dei blog (50% a 3 s, +23%, 38%) sono **non verificate**.
+
 ## Hook per filone
 
 **Paesaggi e stagioni**
@@ -149,3 +156,6 @@ Punteggio 0-2 per criterio; totale su 14. Scarta sotto 9.
 | 13 | From Roots to Leaves (da Instagram al bosco) | il Dolomiti (sponsorizzato) | 2026-05-17 | C | https://www.ildolomiti.it/altra-montagna/cultura/2026/se-considerassimo-gli-alberi-esseri-umani-come-potremmo-accettare-di-tagliarli-qualora-rischiassero-di-cadere-mettendo-a-rischio-delle-vite-da-instagram-al-bosco-con-from-roots-to-leaves |
 | 14 | Reel natura Lapponia | Yle | n.d. | C (aneddoto) | https://yle.fi/a/3-12167814 |
 | 15 | Comunicazione su Instagram, 5 parchi norvegesi | NMBU (tesi) | 2023 | B (non letta) | https://nmbu.brage.unit.no/nmbu-xmlui/handle/11250/3080529 |
+| 16 | Principi generali hook short-form (sintesi) | Metricool, vidIQ, GoFaceless e altri | 2025-2026 | C | https://metricool.com/viral-video-hooks/ |
+| 17 | YouTube Shorts: Stayed to watch | vidIQ/GoFaceless | 2026 | C | https://vidiq.com/blog/post/get-more-views-youtube-shorts |
+| 18 | Visione senza audio | Digiday (sponsorizzato) e altri | 2016-2026 | C | https://digiday.com/sponsored/75-percent-of-people-watch-mobile-videos-on-mute/ |
